@@ -1,0 +1,9 @@
+name        = govCMS Site Theme
+description = Theme for the govcms.gov.au website
+
+core        = 7.x
+base theme  = agov_zen
+
+stylesheets[all][] = css/govcms.css
+
+scripts[] = js/govcms.js
