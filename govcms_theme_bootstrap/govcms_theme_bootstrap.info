@@ -1,0 +1,9 @@
+name        = govCMS Site Theme for Bootstrap
+description = Theme for the govcms.gov.au website based on the bootstrap theme
+
+core        = 7.x
+base theme  = agov_zen
+
+stylesheets[all][] = css/govcms.css
+
+scripts[] = js/govcms.js
