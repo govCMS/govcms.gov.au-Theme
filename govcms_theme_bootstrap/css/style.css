@@ -19,7 +19,7 @@ header a {
 }
 
 .region-navigation .block__content > .menu > li:first-of-type > a {
-  padding-left: 10px;
+    padding-left: 10px;
 }
 
 .inlineLinks--bordered--double > li > a:before {
@@ -118,7 +118,7 @@ p, ul, li {
     line-height: 1.5em;
 }
 .post-entry ul {
-  margin-top: 0;
+    margin-top: 0;
 }
 
 h1, h2, h3, h4, h5 {
@@ -188,22 +188,22 @@ blockquote .fa-quote-left, blockquote .fa-quote-right {
 /* a11y */
 #block-search-form .block__content input#edit-submit:active,
 #block-search-form .block__content input#edit-submit:focus {
-  background-color: #74C29F !important;
+    background-color: #74C29F !important;
 }
 #block-search-form .block__content input#edit-submit:hover {
-  background-color: #37424A !important;
+    background-color: #37424A !important;
 }
 #block-search-form #edit-search-block-form--2:active,
 #block-search-form #edit-search-block-form--2:focus {
-  border: 1px solid #74C29F;
+    border: 1px solid #74C29F;
 }
 #block-search-form #edit-search-block-form--2:hover {
-  border: 1px solid #37424A;
+    border: 1px solid #37424A;
 }
 :not(#block-agov-social-links-services) a:active,
 :not(#block-agov-social-links-services) a:focus {
-  color: #222 !important;
-  background-color: #74C29F !important;
+    color: #222 !important;
+    background-color: #74C29F !important;
 }
 
 /*.menu li.active-trail {
@@ -212,280 +212,280 @@ blockquote .fa-quote-left, blockquote .fa-quote-right {
 }*/
 
 #page {
-  margin-top: -6px;
+    margin-top: -6px;
 }
 blockquote {
-  margin: 1.4em 45px;
+    margin: 1.4em 45px;
 }
 blockquote .fa-quote-left {
-  float: left;
-  left: -1.05em;
-  top: -0.25em;
-  position: relative;
-  width: 0;
+    float: left;
+    left: -1.05em;
+    top: -0.25em;
+    position: relative;
+    width: 0;
 }
 blockquote .fa-quote-right {
-  float: right;
-  right: -0.55em;
-  top: 0.15em;
-  position: relative;
+    float: right;
+    right: -0.55em;
+    top: 0.15em;
+    position: relative;
 }
 blockquote span {
-  font-size: 1.35em;
-  color: #37424A;
+    font-size: 1.35em;
+    color: #37424A;
 }
 .node-46 blockquote {
-  padding-left: 1em;
-  color: #37424A;
-  font-family: Helvetica, Arial,sans-serif;
-  font-size: 130%;
+    padding-left: 1em;
+    color: #37424A;
+    font-family: Helvetica, Arial,sans-serif;
+    font-size: 130%;
 }
 .node-46 blockquote .fa-quote-left {
-  left: -1.55em;
+    left: -1.55em;
 }
 .node-46 blockquote .fa-quote-right {
-  right: 0;
+    right: 0;
 }
 
 #footer .block__content {
-  margin-left: auto;
-  margin-right: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 @media screen and (min-width: 320px) {
-  #footer .block__content {
-    width: 20.5em;
-  }
+    #footer .block__content {
+        width: 20.5em;
+    }
 }
 @media screen and (max-width: 319px) {
-  #footer .block__content li {
-    width: 100%;
-  }
-  #footer .block__content li a {
-    display: inline-block;
-  }
-  #footer .block__content li a:before {
-    border-left: 0;
-  }
+    #footer .block__content li {
+        width: 100%;
+    }
+    #footer .block__content li a {
+        display: inline-block;
+    }
+    #footer .block__content li a:before {
+        border-left: 0;
+    }
 }
 
 #footer .menu li {
-  margin-right: 10px;
-  padding-left: 10px;
+    margin-right: 10px;
+    padding-left: 10px;
 }
 
 #footer .menu li a:before {
-  color: #5f5f5f;
+    color: #5f5f5f;
 }
 #footer .menu li a:before {
-  border-color: #74C29F;
+    border-color: #74C29F;
 }
 
 @media screen and (min-width: 720px) {
-  #footer {
-    height: 0;
-  }
-  #block-menu-menu-footer-sub-menu {
-    top: 1em;
-    position: relative;
-  }
+    #footer {
+        height: 0;
+    }
+    #block-menu-menu-footer-sub-menu {
+        top: 1em;
+        position: relative;
+    }
 }
 
 #block-search-form .block__content {
-  padding-left: 0;
-  padding-right: 10px;
+    padding-left: 0;
+    padding-right: 10px;
 }
 #block-search-form .block__content input#edit-submit {
-  margin-right: 0;
-  background-color: #37424A !important;
+    margin-right: 0;
+    background-color: #37424A !important;
 }
 
 
 /* Social icons */
 #block-agov-social-links-services a img {
-  width: 0;
-  height: 0;
+    width: 0;
+    height: 0;
 }
 
 #block-agov-social-links-services a:hover,
 #block-agov-social-links-services a:active,
 #block-agov-social-links-services a:focus {
-  background: transparent !important;
-  color: #fff !important;
+    background: transparent !important;
+    color: #fff !important;
 }
 #block-agov-social-links-services a:before {
-  display: inline-block;
-  font: normal normal normal 14px/1 FontAwesome;
-  font-size: inherit;
-  text-rendering: auto;
-  -webkit-font-smoothing: antialiased;
-  min-width: 32px;
-  min-height: 32px;
-  font-size: 2.65em;
-  margin-right: 0.2em;
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    min-width: 32px;
+    min-height: 32px;
+    font-size: 2.65em;
+    margin-right: 0.2em;
 }
 #block-agov-social-links-services a[href*="twitter.com"]:before {
-  content: "\f081";
-  color: #4099FF;
+    content: "\f081";
+    color: #4099FF;
 }
 #block-agov-social-links-services a[href*="youtube.com"]:before {
-  content: "\f16a";
-  color: #fff;
-  background: #e52d27;
-  border-radius: 6px;
-  font-size: 1.6em;
-  top: -6px;
-  position: relative;
-  padding: 6px 6px 5px 5px;
-  min-width: 20px;
-  min-height: 20px;
+    content: "\f16a";
+    color: #fff;
+    background: #e52d27;
+    border-radius: 6px;
+    font-size: 1.6em;
+    top: -6px;
+    position: relative;
+    padding: 6px 6px 5px 5px;
+    min-width: 20px;
+    min-height: 20px;
 }
 #block-agov-social-links-services a[href*="youtube.com"]:hover:before {
-  color: #fff;
-  background-color: #74C29F;
+    color: #fff;
+    background-color: #74C29F;
 }
 #block-agov-social-links-services a[href*="rss.xml"]:before {
-  content: "\f143";
-  color: #ff9900;
+    content: "\f143";
+    color: #ff9900;
 }
 #block-agov-social-links-services a[href*="contact-us"]:before {
-  content: "\f199";
-  color: #333;
+    content: "\f199";
+    color: #333;
 }
 #block-agov-social-links-services a:hover:before,
 #block-agov-social-links-services a:active:before,
 #block-agov-social-links-services a:focus:before {
-  color: #74C29F;
-  /*background-color: #37424A;*/
+    color: #74C29F;
+    /*background-color: #37424A;*/
 }
 #block-agov-social-links-services a[href*="youtube.com"]:hover:before,
 #block-agov-social-links-services a[href*="youtube.com"]:active:before,
 #block-agov-social-links-services a[href*="youtube.com"]:focus:before {
-  color: #fff;
-  background-color: #74C29F;
+    color: #fff;
+    background-color: #74C29F;
 }
 
 .features {
-  margin-top: 2.5em;
+    margin-top: 2.5em;
 }
 .threeCol {
-  float: left;
-  margin-bottom: 20px;
-  padding-right: 10px;
+    float: left;
+    margin-bottom: 20px;
+    padding-right: 10px;
 }
 .threeCol i {
-  width: 50px;
-  font-size: 3em;
-  float: left;
-  color: #74C29F;
-  width: 22%;
+    width: 50px;
+    font-size: 3em;
+    float: left;
+    color: #74C29F;
+    width: 22%;
 
 }
 .threeCol h2 {
-  float: left;
-  margin-top: 0;
-  font-size: 1.5em;
-  letter-spacing: 0;
-  width: 78%;
-  line-height: 1.3em;
-  color: #37424A;
+    float: left;
+    margin-top: 0;
+    font-size: 1.5em;
+    letter-spacing: 0;
+    width: 78%;
+    line-height: 1.3em;
+    color: #37424A;
 }
 .threeCol p {
-  float: left;
-  margin-left: 22%;
-  margin-right: 30px;
-  min-height: 8.7em;
-  font-size: 96%;
-  width: 68%;
-  margin-top: 0;
+    float: left;
+    margin-left: 22%;
+    margin-right: 30px;
+    min-height: 8.7em;
+    font-size: 96%;
+    width: 68%;
+    margin-top: 0;
 }
 .threeCol br {
-  display: none;
+    display: none;
 }
 @media screen and (min-width: 720px) {
-  .threeCol {
-    min-height: 15.2em;
-    width: 50%;
-  }
+    .threeCol {
+        min-height: 15.2em;
+        width: 50%;
+    }
 }
 
 
 
 .region-navigation .block__content > .menu > li > a:hover,
 .region-navigation .block__content > .menu > li.sfHover > a {
-  background: #74C29F;
-  color: #333;
+    background: #74C29F;
+    color: #333;
 }
 
 .video-wrapper {
-  clear: both;
-  padding-top: 20px;
+    clear: both;
+    padding-top: 20px;
 }
 
 .page-views h3 {
-  border: none;
+    border: none;
 }
 .sidebar .block .block__title {
-  border: solid #74C29F 2px;
-  border-radius: 0 25px 0 0;
-  border-bottom: none;
+    border: solid #74C29F 2px;
+    border-radius: 0 25px 0 0;
+    border-bottom: none;
 }
 h1 {
-  font-weight: 200;
-  margin-top: 0;
+    font-weight: 200;
+    margin-top: 0;
 }
 
 #content .form-submit {
-  background: #74C29F;
-  color: #222;
-  padding: 10px 20px;
-  box-shadow: 1px 1px 1px #c9c9c9;
-  height: auto;
-  font-weight: bold;
+    background: #74C29F;
+    color: #222;
+    padding: 10px 20px;
+    box-shadow: 1px 1px 1px #c9c9c9;
+    height: auto;
+    font-weight: bold;
 }
 .form-text, textarea {
-  border: solid 1px rgba(55, 66, 74, .5);
+    border: solid 1px rgba(55, 66, 74, .5);
 }
 .form-item label {
-  color: #37424A;
-  font-weight: 400;
+    color: #37424A;
+    font-weight: 400;
 }
 
 div.region-navigation {
-  border-top: solid #74C29F 2px;
+    border-top: solid #74C29F 2px;
 }
 
 .sidebars .view-home-page-blog-articles .views-row {
-  border-bottom: solid 1px #74C29F;
-  padding: 17px 0 15px 0;
+    border-bottom: solid 1px #74C29F;
+    padding: 17px 0 15px 0;
 }
 .sidebars .view-home-page-blog-articles .views-row:first-of-type {
-  padding: 0 0 10px 0;
+    padding: 0 0 10px 0;
 }
 .sidebars .view-home-page-blog-articles .views-row .field-item {
-  color: #37424A;
+    color: #37424A;
 }
 .sidebars .view-home-page-blog-articles .views-row:last-of-type {
-  border-bottom: none;
+    border-bottom: none;
 }
 #comments {
-  border-top: solid 1px #74C29F;
-  margin-top: 35px;
+    border-top: solid 1px #74C29F;
+    margin-top: 35px;
 }
 #comments h2 {
-  margin-top: 30px;
-  font-size: 2em;
-  font-weight: 200;
+    margin-top: 30px;
+    font-size: 2em;
+    font-weight: 200;
 }
 
 #main-content {
-  display: none;
+    display: none;
 }
 
 .breadcrumb a {
-  margin: auto 5px;
+    margin: auto 5px;
 }
 .breadcrumb a:first-of-type {
-  margin-left: 0;
+    margin-left: 0;
 }
 
 /* beta banner */
@@ -524,41 +524,41 @@ div.region-navigation {
 /* Responsive */
 @media screen and (max-width: 320px) {
 
-  #block-search-form .form-item-search-block-form label.element-invisible {
-    height: auto !important;
-    width: auto !important;
-    /*clip: none;*/
-    position: relative !important;
-    display: block !important;
-    width: 100% !important;
-  }
-  #block-agov-social-links-services a:before {
-    margin-right: 0.83em;
-  }
-  #block-agov-social-links-services a[href*="youtube"]:before {
-    margin-right: 1.43em;
-  }
-  #block-agov-social-links-services a[href*="contact-us"]:before {
-    margin-right: 0;
-    padding-right: 0;
-  }
-  a#logo {
-    margin-top: 45px;
-    max-width: 60%;
-    padding-left: 10px;
-  }
-  #block-search-form {
-    border-top: 1px solid #74C29F;
-  }
-  .ribbon {
-      min-width: 800px;
-      right: -370px;
-      top: 15px;
-  }
-  .ribbon p {
-      font-size: 100%;
-      font-weight: 400;
-  }
+    #block-search-form .form-item-search-block-form label.element-invisible {
+        height: auto !important;
+        width: auto !important;
+        /*clip: none;*/
+        position: relative !important;
+        display: block !important;
+        width: 100% !important;
+    }
+    #block-agov-social-links-services a:before {
+        margin-right: 0.83em;
+    }
+    #block-agov-social-links-services a[href*="youtube"]:before {
+        margin-right: 1.43em;
+    }
+    #block-agov-social-links-services a[href*="contact-us"]:before {
+        margin-right: 0;
+        padding-right: 0;
+    }
+    a#logo {
+        margin-top: 45px;
+        max-width: 60%;
+        padding-left: 10px;
+    }
+    #block-search-form {
+        border-top: 1px solid #74C29F;
+    }
+    .ribbon {
+        min-width: 800px;
+        right: -370px;
+        top: 15px;
+    }
+    .ribbon p {
+        font-size: 100%;
+        font-weight: 400;
+    }
 
 }
 
