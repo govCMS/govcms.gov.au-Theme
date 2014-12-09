@@ -12,8 +12,8 @@
 ; page at admin/appearance.
 
 screenshot  = screenshot.png
-name        = AGOV STARTERKIT
-description = Build your own theme for aGov
+name        = govCMS Theme
+description = govcms.gov.au Theme
 
 
 ; This theme is compatible with Drupal 7 core. And it is a sub-theme of Zen.
@@ -65,7 +65,7 @@ stylesheets[all][] = css/styles.css
 
 ; Optionally add some JavaScripts to your theme.
 
-;scripts[] = js/script.js
+scripts[] = js/script.js
 
 
 
